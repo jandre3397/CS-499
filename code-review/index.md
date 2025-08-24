@@ -1,9 +1,7 @@
-# Code Review Video
+# Code Review Video  
 
-This folder contains my **code review resources** for CS-499.  
+This folder contains my code review resources for CS-499.  
 
-- The review video walks through my enhancements, design decisions, and professional reflections.  
-- A direct link to the hosted video (YouTube/other platform) is included here.  
+The review video walks through my enhancements, design decisions, and professional reflections.  
 
-Link: - [Code Review Resource](code-review/)
-
+Link: *(Video link will be added here once uploaded to YouTube)*
