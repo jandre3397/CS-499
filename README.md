@@ -18,7 +18,7 @@ I’m currently pursuing **Linux+** and **Security+**, while also building skill
 ## Portfolio Contents
 
 - [Professional Self-Assessment](self-assessment/)  
-- [Artifacts – Original Versions](artifacts/original/)  
+- [Artifacts – Original Versions](artifacts/originals/)  
 - [Artifacts – Enhanced Versions](artifacts/enhanced/)  
 - [Narratives (Milestone Writeups)](narratives/)  
 - [Code Review Resource](code-review/video-link.txt)  
