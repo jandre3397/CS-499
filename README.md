@@ -21,4 +21,4 @@ I’m currently pursuing **Linux+** and **Security+**, while also building skill
 - [Artifacts – Original Versions](artifacts/originals/)  
 - [Artifacts – Enhanced Versions](artifacts/enhanced/)  
 - [Narratives (Milestone Writeups)](narratives/)  
-- [Code Review Resource](code-review/video-link.txt)  
+- [Code Review Resource](code-review/)  
