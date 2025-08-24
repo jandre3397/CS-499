@@ -13,7 +13,8 @@ The assessment explains:
 ---
 
 ## Download
-[Download Professional Portfolio Assessment (DOCX)](https://github.com/jandre3397/CS-499/raw/main/self-assessment/Professional%20Portfolio%20Assessment.docx)
+[Download Professional Portfolio Assessmet (DOCX)](https://github.com/jandre3397/CS-499/raw/main/self-assessment/Professional%20Portfolio%20Assessmet.docx)
+
 
 
 ---
