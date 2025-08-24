@@ -1,4 +1,4 @@
 # Narratives
 
-This folder contains my **written milestone narratives** and reflections from the CS-499 capstone course.  
+This folder contains my narratived from the CS-499 capstone course projects.  
 
